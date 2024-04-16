@@ -13,3 +13,6 @@
 [Icons8](https://icons8.com/icons): Tons of icons for free. Has paid option.\
 [Feather](https://feathericons.com/): SVG icons.\
 [Bootstrap](https://icons.getbootstrap.com/): Icon library with a ton of different export options.
+
+## CodeSandbox
+[CodeSandbox](https://codesandbox.io/): To get it working, put npm i next in the startup commands.

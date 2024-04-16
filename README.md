@@ -6,5 +6,5 @@
 [Merakiui](https://merakiui.com/components): Lots more Raw Tailwind components
 
 ## React Resources
-[React Documentation](https://react.dev/): Documentation for React
+[React Documentation](https://react.dev/): Documentation for React\
 [Next.js Documentation](https://nextjs.org/docs): Documentation for Next.js

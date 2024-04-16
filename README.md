@@ -15,4 +15,4 @@
 [Bootstrap](https://icons.getbootstrap.com/): Icon library with a ton of different export options.
 
 ## CodeSandbox
-[CodeSandbox](https://codesandbox.io/): To get it working, put npm i next in the startup commands.
+[CodeSandbox](https://codesandbox.io/): To get it working, put ```npm i next``` in the startup commands.

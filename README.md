@@ -7,3 +7,4 @@
 
 ## React Resources
 [React Documentation](https://react.dev/): Documentation for React
+[Next.js Documentation](https://nextjs.org/docs): Documentation for Next.js
